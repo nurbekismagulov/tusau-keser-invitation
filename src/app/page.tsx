@@ -7,7 +7,7 @@ export default function Home() {
             Issa / Product Kickoff
           </p>
           <h1 className="mt-6 max-w-3xl text-5xl font-semibold tracking-[-0.04em] text-foreground sm:text-6xl">
-            We have the app shell live, and the product thinking starts next.
+            Nurbek&apos;s app shell is live, and the product thinking starts next.
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-muted">
             This workspace is ready for the next phase: clarifying the product
@@ -38,6 +38,10 @@ export default function Home() {
           <section className="rounded-[2rem] border border-line bg-surface-strong p-8 shadow-[0_18px_48px_rgba(88,54,20,0.1)]">
             <p className="text-sm font-semibold uppercase tracking-[0.22em] text-accent">
               Next steps
+            </p>
+            <p className="mt-4 text-sm leading-7 text-muted">
+              Set up for Nurbek to define the vision first, then iterate quickly
+              once the product direction is clear.
             </p>
             <ul className="mt-5 space-y-4 text-sm leading-7 text-muted">
               <li className="rounded-2xl border border-line bg-white/50 px-4 py-3">
